@@ -1,6 +1,9 @@
 
 # Insider Frontend Automation Task
 
+![frontend](https://github.com/user-attachments/assets/0df4b51b-1abe-4cf1-8229-11a9f710da83)
+
+
 ## Overview
 
 This project is a test automation suite developed for **Insider's website**. It utilizes **Selenium WebDriver** for UI testing, incorporating various functionalities such as navigating through pages, filtering job listings, verifying content presence, and ensuring that user interactions lead to expected outcomes. The automation scripts are written in **Java** and orchestrated through **TestNG** to ensure robust testing across multiple browsers.
